@@ -1,0 +1,42 @@
+@media (max-width: 767.98px) { 
+
+  .text-1{
+      font-size: 17px;
+      float: right;
+  }
+  
+  .text-2{
+      font-size: 17px;
+      float: right;
+  }
+  
+  .sun-img{
+      width: 80px;
+      height: 80px;
+  }
+  
+  .navbar-brand{
+      /* background-color: black; */
+      width: 40px;
+  }
+  
+  .button{
+      font-size: 50%;
+      /* font-weight: bold; */
+  }
+  
+  .button-2{
+      font-size: 20px;
+  }
+
+  .plat{
+      font-size: 400px;
+      font-weight: bold;
+  }
+}
+
+body{
+      background: linear-gradient(120deg, #a82323, #000000);
+      background-size: cover;
+      /* position: fixed; */
+}
